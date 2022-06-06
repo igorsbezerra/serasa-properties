@@ -15,8 +15,10 @@
       <change afterPath="$PROJECT_DIR$/../config-server/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../config-server/src/test/java/com/serasa/configserver/ConfigServerApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../discovery/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../user-api/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-api/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-api/src/main/java/com/serasa/user/UserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-api/src/main/java/com/serasa/user/UserApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-api/src/main/resources/application.properties" beforeDir="false" />
@@ -28,6 +30,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/discovery.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user.properties" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
